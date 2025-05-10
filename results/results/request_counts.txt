@@ -1,0 +1,3 @@
+Total Requests: 10000
+GET Requests: 9952
+POST Requests: 5

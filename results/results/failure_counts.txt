@@ -1,0 +1,2 @@
+Failed Requests: 220
+Failure Rate: 2.20%

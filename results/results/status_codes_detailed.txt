@@ -1,0 +1,8 @@
+Status 200 (OK): 9126 requests (91.26%)
+Status 206 (Unknown): 45 requests (0.45%)
+Status 301 (Moved Permanently): 164 requests (1.64%)
+Status 304 (Unknown): 445 requests (4.45%)
+Status 403 (Forbidden): 2 requests (0.02%)
+Status 404 (Not Found): 213 requests (2.13%)
+Status 416 (Unknown): 2 requests (0.02%)
+Status 500 (Internal Server Error): 3 requests (0.03%)
